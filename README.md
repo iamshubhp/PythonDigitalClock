@@ -1,8 +1,8 @@
-** Digital Clock with PyQt5 **
+**Digital Clock with PyQt5**
 
 This is a simple digital clock application built using Python and PyQt5.
 
-Features
+**Features**
 
 Displays the current time in hh:mm:ss AP format.
 
@@ -12,7 +12,7 @@ Green-colored time display on a black background.
 
 Updates every second.
 
-Installation
+**Installation**
 
 Install the required dependencies:
 
@@ -25,13 +25,13 @@ cd digital-clock
 
 Ensure you have the font file (DS-DIGIB.TTF) in the same directory as the script.
 
-Usage
+**Usage**
 
 Run the script with:
 
 python digital_clock.py
 
-Code Overview
+**Code Overview**
 
 The script consists of a DigitalClock class that inherits from QWidget and displays a real-time updating clock.
 
